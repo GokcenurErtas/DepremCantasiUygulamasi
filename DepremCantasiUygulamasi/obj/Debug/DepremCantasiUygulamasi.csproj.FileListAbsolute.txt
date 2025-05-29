@@ -1,0 +1,11 @@
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\bin\Debug\DepremCantasiUygulamasi.exe.config
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\bin\Debug\DepremCantasiUygulamasi.exe
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\bin\Debug\DepremCantasiUygulamasi.pdb
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.Form1.resources
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.Properties.Resources.resources
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.csproj.GenerateResource.cache
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.exe
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.pdb
+C:\Users\ertas\Desktop\NesneProje\DepremCantasiUygulamasi\obj\Debug\DepremCantasiUygulamasi.exe.config
